@@ -1,0 +1,710 @@
+[
+    {
+        "opinion_id": "2401113",
+        "author": "Mateusz",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Prezentuje się dobrze waży swoje i tak jak wygląda jest solidną konstrukcją. Jedyną wadą(bardzo dużą) jest hałas jaki wytwarza przy pracy. Mam wrażenie, że tańsze maszynki do mielenia nie produkują tyle hałasu. Spodziewałem się za taką cenę cichszej pracy, ale co do samego mielenia mięsa nie mam obiekcji. Mieli dobrze, czyści się łatwo, a dodatkowo posiada rewers.",
+            "en": "It looks good, weighs well and, as it looks, is a solid construction. The only drawback (a very big one) is the noise it produces during operation. I have the impression that cheaper grinders do not produce as much noise. For this price, I expected quieter operation, but I have no objections to the meat grinding itself. They grind well, are easy to clean, and also have a reverser."
+        },
+        "pros": {
+            "pl": [
+                "solidna konstrukcja"
+            ],
+            "en": [
+                "solid construction"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "bardzo głośna"
+            ],
+            "en": [
+                "very noisy"
+            ]
+        },
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2014-01-07 11:52:34",
+        "purchase_date": "2013-12-23 11:58:44"
+    },
+    {
+        "opinion_id": "2393147",
+        "author": "Tomasz",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "wzbudzający zaufanie, nie zauważyłem cech negatywnych z innych opinii (np gniecenie miesa zamiast krojenia, zaoychanie sie itp). Uzywalem maszynki do mielenia zwyklego oraz przygotowania pasztetu (potrojne mielenie, sitko o najmniejszym oczku) - wynik bardzo dobry.",
+            "en": "inspiring confidence, I did not notice any negative features from other opinions (e.g. crushing the meat instead of cutting it, infatuation, etc.). I used a regular grinder and to prepare pâté (triple grinding, a strainer with the smallest mesh) - the result was very good."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2014-01-02 10:26:01",
+        "purchase_date": "2013-12-12 08:55:39"
+    },
+    {
+        "opinion_id": "12086989",
+        "author": "Daniela",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Kenwood mg700 maszynka do mięsa , szybka i o silnej mocy, niestety bardzo głośna, mogłaby mieć tarcze z większymi oczkami, np 13,czy 16",
+            "en": "Kenwood mg700 meat grinder, fast and powerful, unfortunately very noisy, could have discs with larger holes, e.g. 13 or 16"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2020-04-07 20:42:11",
+        "purchase_date": "2020-03-22 04:17:24"
+    },
+    {
+        "opinion_id": "1929489",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Poszukiwałem solidnej maszynki do mięsa - wybór padł na najtańszego Kenwooda w metalowej obudowie. Plusy: maszynka jest wykonana solidnie, metalowa tacka i końcówki chowane w popychaczu. Minusy: maszynka ma fabrycznie tępe sitko i nożyk.  Sitko zatkało się po kilku garściach chudej wołowiny. Spróbuję naostrzyć, ewentualnie powinny pasować sitka i noże od polskiej nr 8. Panie i Panowie z firmy Kenwood - dopisek \"PRO\" w nazwie zobowiązuje... (zdaję sobie sprawę, że to nie jest pro maszyna - takie kosztują od ok 1800zł). Produkcja niestety chińska :( - szkoda, że nasz rodzimy Zelmer nie ma w ofercie maszynki z metalową obudową.",
+            "en": "I was looking for a solid meat grinder - I chose the cheapest Kenwood with a metal housing. Pros: the machine is solidly made, with a metal tray and tips hidden in the pusher. Cons: the machine comes with a blunt strainer and knife. The strainer became clogged after a few handfuls of lean beef. I will try to sharpen it, or strainers and knives from Polish no. Unfortunately, the production is Chinese :( - it's a pity that our local Zelmer does not offer a razor with a metal housing."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 8,
+        "unhelpful": 2,
+        "publish_date": "2010-11-01 00:17:21",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "11031574",
+        "author": "Bożena",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo dobra  Maszynka.  POLECAM WSZYSTKIM!!!!!!!!!.....",
+            "en": "Very good machine. I RECOMMEND IT TO EVERYONE!!!!!!!!!....."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy"
+            ],
+            "en": [
+                "working volume"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2019-09-22 22:58:36",
+        "purchase_date": "2019-08-22 16:44:05"
+    },
+    {
+        "opinion_id": "5020349",
+        "author": "Tomasz Maq",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Spisuje sie bez zastrzeżen",
+            "en": "It works flawlessly"
+        },
+        "pros": {
+            "pl": [
+                "bardzo głośna",
+                "głośność pracy",
+                "solidna konstrukcja",
+                "wydajność"
+            ],
+            "en": [
+                "very noisy",
+                "working volume",
+                "solid construction",
+                "efficiency"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2017-09-08 10:18:12",
+        "purchase_date": "2017-09-05 13:00:08"
+    },
+    {
+        "opinion_id": "2988340",
+        "author": "Danka",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Do tej pory sprawdza się doskonale. Polecam.",
+            "en": "It's been working great so far. I recommend."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2015-02-06 15:45:07",
+        "purchase_date": "2015-01-11 22:50:11"
+    },
+    {
+        "opinion_id": "4444762",
+        "author": "boss",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Praca głośna - reszta OK",
+            "en": "Noisy operation - the rest is OK"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2017-02-20 21:25:40",
+        "purchase_date": "2017-01-16 11:53:47"
+    },
+    {
+        "opinion_id": "11776043",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo dobry",
+            "en": "Very good"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2020-02-20 11:20:47",
+        "purchase_date": "2020-02-17 14:51:06"
+    },
+    {
+        "opinion_id": "4858900",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 0.7,
+        "content": {
+            "pl": "hendi mg 510 i kenwood mg 510 to ta sama maszyna różnią się ceną . Moc mielenie  łopatki czy karczku wg mnie za słaba Reklamowane 2 kg na minutę dotyczy ładnego mięsa  a nie pospolitego - ja kupiłem szarpak i mielę dwukrotnie . Jakość wykonania: niestabilna tacka z tendencją do obracania się -bez blokad, nakrętka trzymająca sitko z delikatnego cieniutkiego aluminium.  Obudowa plastikowa w kolorze nierdzewki. Za cenę 500zł polecam jako domową maszynę ale do małej gastronomii to porażka",
+            "en": "hendi mg 510 and kenwood mg 510 are the same machine, they differ in price. The power of grinding the shoulder or neck is too weak in my opinion. The advertised 2 kg per minute applies to nice meat, not ordinary meat - I bought a jerk meat and grind it twice. Build quality: unstable tray with a tendency to rotate - no locks, nut holding the strainer made of delicate, thin aluminum. Plastic casing, stainless steel. For the price of PLN 500, I recommend it as a home machine, but for a small catering business it is a failure"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2017-07-17 23:30:34",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "1322287",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Jak sama nazwa wskazuje głównym przeznaczeniem tej maszynki jest mielenie mięsa i z tej funkcji wywiązuje się doskonale. Jednakże ja stosuję ją także do trochę innych celów. Przy jej pomocy mielę ser na sernik oraz przekręcam mak na makowiec. Zarówno jakość użytych w niej materiałów oraz solidność wykonania nie budzi żadnych wątpliwości. Jedynie żałuję, że jej czyszczenie nie jest mniej absorbujące.",
+            "en": "As the name suggests, the main purpose of this machine is to grind meat and it performs this function perfectly. However, I also use it for slightly different purposes. I use it to grind cheese into cheesecake and turn poppy seeds into poppy seeds. Both the quality of the materials used and the solidity of workmanship are beyond any doubt. I only regret that cleaning it is not less absorbing."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 3,
+        "unhelpful": 2,
+        "publish_date": "2009-11-26 14:08:53",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "1510105",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ta maszynka do mielenia mięsa jest bardzo dobra, posiadam taką w swojej kuchni i jestem z niej bardzo zadowolona. Można jej używać także do przecierania ziemniaków na placki, do mielenia maku i sera. Jest ona bardzo poręczna. Często jej używam i wam także ją polecam z nią wasze życie zmieni się na lepsze bo na co męczyć się ze starą maszynką na korbę...",
+            "en": "This meat grinder is very good, I have one in my kitchen and I am very pleased with it. It can also be used to puree potatoes into pancakes and to grind poppy seeds and cheese. It is very handy. I use it often and I also recommend it to you, with it your life will change for the better because why bother with an old crank machine..."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 2,
+        "publish_date": "2010-01-12 11:28:38",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "1356582",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Taką maszynkę do mięsa w swojej kuchni ma moja mama. Maszynka ta świetnie sprawdza się nie tylko do mielenia mięsa ale również do przecierania sera, maku a nawet ziemniaków do placków ziemniaczanych. Maszynka ta jest solidnie wykonana. Jest ona dość poręczna. Polecam jej zakup.",
+            "en": "My mother has such a meat grinder in her kitchen. This machine is perfect not only for grinding meat, but also for grating cheese, poppy seeds and even potatoes for potato pancakes. This machine is solidly made. It is quite handy. I recommend purchasing it."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 3,
+        "unhelpful": 4,
+        "publish_date": "2009-12-02 13:48:34",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "13967283",
+        "author": "k...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Pracuje dość głośno ale to nie wada. Radzi sobie doskonale z mieleniem różnych produktów a tego właśnie oczekiwałam. No i ten fajnie pomyślany pojemnik na akcesoria.",
+            "en": "It is quite noisy, but that is not a disadvantage. It copes perfectly with grinding various products, which is exactly what I expected. And this nicely designed container for accessories."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "solidna konstrukcja",
+                "trwałość",
+                "wydajność"
+            ],
+            "en": [
+                "working volume",
+                "solid construction",
+                "durability",
+                "efficiency"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2021-02-16 21:36:49",
+        "purchase_date": "2021-01-29 18:32:38"
+    },
+    {
+        "opinion_id": "3516486",
+        "author": "bajo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "polecam ,jestem zachwycona maszynka szybka i wytrzymała nie boję się ,że się za chwilę zatrzyma,,,,",
+            "en": "I recommend it, I am delighted with the machine, it is fast and durable, I am not afraid that it will stop in a moment,,,,"
+        },
+        "pros": {
+            "pl": [
+                "szybka.wytrzymała"
+            ],
+            "en": [
+                "fast.durable"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 3,
+        "publish_date": "2016-01-06 11:28:30",
+        "purchase_date": "2015-11-28 15:16:38"
+    },
+    {
+        "opinion_id": "2872290",
+        "author": "t",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "produkt zgodny z opisem dobry kontakt z sprzedawca profesjonalne podejscie do realizacji zamówien polecam serdecznie",
+            "en": "product consistent with the description, good contact with the seller, professional approach to order fulfillment, I highly recommend it"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 2,
+        "unhelpful": 2,
+        "publish_date": "2014-12-18 19:12:30",
+        "purchase_date": "2014-10-28 16:06:56"
+    },
+    {
+        "opinion_id": "2738433",
+        "author": "arletta",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "urządzenie jest bardzo pomocne w naszych warunkach pracy, łatwe w obsłudze i utrzymaniu w czystości",
+            "en": "the device is very helpful in our working conditions, easy to use and keep clean"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 4,
+        "publish_date": "2014-09-23 10:46:12",
+        "purchase_date": "2014-09-05 12:21:47"
+    },
+    {
+        "opinion_id": "16774245",
+        "author": "m...m",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Dobrze wykonana i łatwa w obsłudze maszynka, bardzo wydajna",
+            "en": "A well-made and easy-to-use machine, very efficient"
+        },
+        "pros": {
+            "pl": [
+                "solidna konstrukcja",
+                "szybka.wytrzymała",
+                "trwałość",
+                "wydajność"
+            ],
+            "en": [
+                "solid construction",
+                "fast.durable",
+                "durability",
+                "efficiency"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-11-22 00:09:40",
+        "purchase_date": "2022-11-01 20:34:37"
+    },
+    {
+        "opinion_id": "3609704",
+        "author": "Sergey",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo dobrze",
+            "en": "Very good"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2016-02-29 09:28:19",
+        "purchase_date": "2016-02-01 10:15:14"
+    },
+    {
+        "opinion_id": "1806830",
+        "author": "8...a",
+        "recommendation": false,
+        "score": 0.4,
+        "content": {
+            "pl": "miałam wcześniej maszynkę do mięsa firmy mulinex . Po 16 latach używania kupiłam nową kenwood i z przykrością muszę stwierdzić , że jest strasznie tandetna. Przy próbie umycia jej w gorącej wodzie zeszła farba i teraz jest już bez połysku. Można ją myć tylko w letniej wodzie . Przy mieleniu mięsa wycieka przy swoich nieszczelnosciach na stół. Jedyną zaletą jest moc silnika.",
+            "en": "I previously had a mulinex meat grinder. After 16 years of use, I bought a new Kenwood and I regret to say that it is terribly shoddy. When I tried to wash it in hot water, the paint came off and now it is glossless. It can only be washed in lukewarm water. When grinding meat, it leaks onto the table due to leaks. The only advantage is the engine power."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 4,
+        "unhelpful": 1,
+        "publish_date": "2011-05-30 12:06:06",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "15981442",
+        "author": "z...t",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Produkt solidny",
+            "en": "Solid product"
+        },
+        "pros": {
+            "pl": [
+                "solidna konstrukcja",
+                "trwałość",
+                "wydajność"
+            ],
+            "en": [
+                "solid construction",
+                "durability",
+                "efficiency"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "głośność pracy"
+            ],
+            "en": [
+                "working volume"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-04-20 09:56:34",
+        "purchase_date": "2022-04-03 17:14:21"
+    },
+    {
+        "opinion_id": "15258812",
+        "author": "a...p",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Solidny sprzęt",
+            "en": "Solid equipment"
+        },
+        "pros": {
+            "pl": [
+                "solidna konstrukcja",
+                "trwałość",
+                "wydajność"
+            ],
+            "en": [
+                "solid construction",
+                "durability",
+                "efficiency"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "głośność pracy"
+            ],
+            "en": [
+                "working volume"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2021-11-25 10:53:02",
+        "purchase_date": "2021-11-22 11:18:49"
+    },
+    {
+        "opinion_id": "13715648",
+        "author": "j...a",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2021-01-05 20:00:41",
+        "purchase_date": "2020-12-16 10:03:24"
+    },
+    {
+        "opinion_id": "3665658",
+        "author": "trener",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2016-03-30 12:36:26",
+        "purchase_date": "2016-03-21 17:12:25"
+    },
+    {
+        "opinion_id": "2549096",
+        "author": "Artur",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 3,
+        "publish_date": "2014-05-05 11:40:53",
+        "purchase_date": "2014-04-28 21:33:49"
+    },
+    {
+        "opinion_id": "11400935",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Maszynka dzięki metalowym częścią gwarantuje uporanie się z twardymi kawałkami mięsa. Sprawdza się również do przygotowania własnej roboty kiełbasy (w zestawie znajdziemy 2 nasadki do robienia kiełbas).",
+            "en": "Thanks to its metal parts, the machine can handle hard pieces of meat. It is also suitable for preparing your own sausages (the set includes 2 sausage-making attachments)."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "trwałość"
+            ],
+            "en": [
+                "working volume",
+                "durability"
+            ]
+        },
+        "cons": null,
+        "helpful": 2,
+        "unhelpful": 0,
+        "publish_date": "2019-12-10 14:51:19",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "17242311",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 0.7,
+        "content": {
+            "pl": "Kupiłem 20.03. 2022  już w 21 01 2023 złożyłem reklamację ( okazało się że popsuła się skrzynia biegów ) dopiero 03.03.2023 dotarła do mnie \n po interwencji , - na szczęście działa - po za tym jest dobrze",
+            "en": "I bought it on March 20. 2022 I filed a complaint on January 21, 2023 (it turned out that the gearbox was broken) and I received it only on March 3, 2023\n after the intervention, - fortunately it works - otherwise everything is fine"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-03-08 23:14:41",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "11423639",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo przydatny sprzęt w kuchni wegetariańskiej, mieli bez problemu ciecierzycę, soczewicę, paprykę i bakłażana. Bardzo ułatwia życie. Polecam",
+            "en": "Very useful equipment in a vegetarian kitchen, it grinds chickpeas, lentils, peppers and eggplant without any problems. It makes life very easy. I recommend"
+        },
+        "pros": {
+            "pl": [
+                "trwałość"
+            ],
+            "en": [
+                "durability"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2019-12-13 13:09:33",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "17972257",
+        "author": "r...a",
+        "recommendation": false,
+        "score": 0.1,
+        "content": {
+            "pl": "Sprzęt reklamowany, złej jakości",
+            "en": "Equipment advertised, of poor quality"
+        },
+        "pros": null,
+        "cons": {
+            "pl": [
+                "głośność pracy",
+                "solidna konstrukcja",
+                "trwałość",
+                "wydajność"
+            ],
+            "en": [
+                "working volume",
+                "solid construction",
+                "durability",
+                "efficiency"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-10-05 17:57:29",
+        "purchase_date": "2023-09-04 16:46:31"
+    },
+    {
+        "opinion_id": "2981779",
+        "author": "Użytkownik Ceneo",
+        "recommendation": false,
+        "score": 0.5,
+        "content": {
+            "pl": "Dobry sprzęt, mocny silnik,ładny wygląd i łatwe czyszczenie. Jednak na tym zalety się kończą. Sitka (siatki) maszynki słabo hartowane, powstają zadziory (nóż robi rysy na siatce). Po wymianie gwarancyjnej siatki i noża, te same problemy. Niestety polskie siatki są za duże i nie pasują do maszynki.",
+            "en": "Good equipment, powerful engine, nice appearance and easy to clean. However, this is where the advantages end. The screens (mesh) of the razor are poorly hardened, burrs appear (the knife makes scratches on the mesh). After replacing the warranty net and knife, the same problems occurred. Unfortunately, Polish nets are too large and do not fit the machine."
+        },
+        "pros": {
+            "pl": [
+                "wydajność"
+            ],
+            "en": [
+                "efficiency"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "głośność pracy",
+                "powstają zadziory na siatkach"
+            ],
+            "en": [
+                "working volume",
+                "burrs appear on the meshes"
+            ]
+        },
+        "helpful": 6,
+        "unhelpful": 0,
+        "publish_date": "2015-02-02 21:55:37",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "2036313",
+        "author": "d...e",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "dopuki będzie działał , będzie dobrze",
+            "en": "as long as it works, it will be fine"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 3,
+        "unhelpful": 0,
+        "publish_date": "2013-02-26 21:07:39",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "11400963",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 1.0,
+        "content": {
+            "pl": "5,0/5",
+            "en": "5.0/5"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2019-12-10 14:51:45",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "5236046",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 1.0,
+        "content": {
+            "pl": "5,0/5",
+            "en": "5.0/5"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2019-03-08 00:00:00",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "4942027",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 1.0,
+        "content": {
+            "pl": "5,0/5",
+            "en": "5.0/5"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2017-08-14 12:48:33",
+        "purchase_date": "2017-07-26 12:58:28"
+    },
+    {
+        "opinion_id": "2099368",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "5,0/5",
+            "en": "5.0/5"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2013-06-05 11:09:08",
+        "purchase_date": null
+    }
+]
